@@ -3,18 +3,17 @@ import discord
 import asyncio
 import threading
 import time
-from datetime import datetime
 import logging
 from discord.ext import commands
 from discord_slash import SlashCommand, SlashContext
 from discord_slash.utils.manage_components import create_button, create_actionrow, wait_for_component
 from discord_slash.model import ButtonStyle
 from dotenv import load_dotenv
-import dbsqlite
+import db.dbsqlite as dbsqlite
 import mdexapi
-import rssMangaUpdate
-import rssFanFox
-import rssScanlatorsParser
+import rss.rssMangaUpdate as rssMangaUpdate
+import rss.rssFanFox as rssFanFox
+import rss.rssScanlatorsParser as rssScanlatorsParser
 
 
 
