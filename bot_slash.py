@@ -9,6 +9,7 @@ from discord_slash import SlashCommand, SlashContext
 from discord_slash.utils.manage_components import create_button, create_actionrow, wait_for_component
 from discord_slash.model import ButtonStyle
 from dotenv import load_dotenv
+import db.dbcreate as dbcreate
 import db.dbsqlite as dbsqlite
 import mdexapi
 import rss.rssMangaUpdate as rssMangaUpdate
@@ -20,7 +21,7 @@ import rss.rssScanlatorsParser as rssScanlatorsParser
 
 logger = logging.getLogger('__name__')
 
-logger.setLevel(level=logging.INFO)
+logger.setLevel(level=logging.DEBUG)
 
 format = logging.Formatter('[%(asctime)s]-[%(levelname)s] - %(message)s')
 
@@ -54,8 +55,6 @@ def checkUpdate_rssMU():
         rssMU_newdata = rssMangaUpdate.rssParser()
         if rssMU_newdata != rssMU_olddata:
             new_releases = [manga for manga in rssMU_newdata if manga not in rssMU_olddata]
-            logger.info('Checked RSS MangaUpdate')
-            #print(str(datetime.now().strftime("%H:%M:%S")), 'Checked RSS MangaUpdate')
             
             for release in new_releases:
                 newdata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date']))
@@ -64,13 +63,15 @@ def checkUpdate_rssMU():
             dbsqlite.populate_mangaupdate_table(newdata_tuplelist)
         time.sleep(30)
         rssMU_olddata = rssMU_newdata
-        
+        logger.info('Checked RSS MangaUpdate')
+
+
 def checkUpdate_rssFF():
     olddata_tuplelist = []
     rssFF_olddata = rssFanFox.rssParser()
     for i in range(len(rssFF_olddata)):
         release = rssFF_olddata[i]
-        olddata_tuplelist.append((release['Title'], release['Chapter'], release['Date'], release['Link'], release['Source']))        
+        olddata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link']))        
     dbsqlite.populate_fanfox_table(olddata_tuplelist)
 
     while True:
@@ -78,22 +79,21 @@ def checkUpdate_rssFF():
         rssFF_newdata = rssFanFox.rssParser()
         if rssFF_newdata != rssFF_olddata:
             new_releases = [manga for manga in rssFF_newdata if manga not in rssFF_olddata]
-            logger.info('Checked RSS Fanfox')
-            #print(str(datetime.now().strftime("%H:%M:%S")) + 'Checked RSS Fanfox')
 
             for j in range(len(new_releases)):
                 release = new_releases[j]
-                newdata_tuplelist.append((release['Title'], release['Chapter'], release['Date'], release['Link'], release['Source']))
+                newdata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link']))
             dbsqlite.populate_fanfox_table(newdata_tuplelist)  
         time.sleep(30)
         rssFF_olddata = rssFF_newdata
+        logger.info('Checked RSS Fanfox')
 
 def checkUpdate_rssScanlators():
     olddata_tuplelist = []
     rssS_olddata = rssScanlatorsParser.rssParser()
     for i in range(len(rssS_olddata)):
         release = rssS_olddata[i]
-        olddata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link'], release['Source']))    
+        olddata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link']))    
     dbsqlite.populate_scanlator_table(olddata_tuplelist)
     
     while True:
@@ -101,15 +101,14 @@ def checkUpdate_rssScanlators():
         rssS_newdata = rssScanlatorsParser.rssParser()
         if rssS_newdata != rssS_olddata:
             new_releases = [manga for manga in rssS_newdata if manga not in rssS_olddata]
-            logger.info('Checked RSS Scanlators')
-            #print(str(datetime.now().strftime("%H:%M:%S")) + 'Checked RSS Scanlators')
 
             for j in range(len(new_releases)):
                 release = new_releases[j]
-                newdata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link'], release['Source']))
+                newdata_tuplelist.append((release['Title'], release['Chapter'], release['Author'], release['Date'], release['Link']))
             dbsqlite.populate_scanlator_table(newdata_tuplelist)
         time.sleep(30)
         rssS_olddata = rssS_newdata
+        logger.info('Checked RSS Scanlators')
 
 def getdata(manganame):
     datalist = []
@@ -129,12 +128,11 @@ def getdata(manganame):
         datalist = None
         return datalist
 
-async def sendNotification(title: str, chapter: int, author: str, url: str, id: int, imgid: int):
+async def sendNotification(title: str, chapter: str, author: str, url: str, id: int, imgid: int):
     if title != None:
         altlink1 = dbsqlite.select_altlinkscan(title)
         altlink2 = dbsqlite.select_altlinkfox(title)
         logger.info('Sending notification...')
-        #print(str(datetime.now().strftime("%H:%M:%S")), 'Sending notification...')
         alluserids = dbsqlite.select_follow(title)
         for userid in alluserids:
             userstitle = dbsqlite.select_specfollow(userid)
@@ -148,14 +146,13 @@ async def sendNotification(title: str, chapter: int, author: str, url: str, id: 
                     embednoti.set_image(url = f'https://uploads.mangadex.org/covers/{id}/{imgid}')
                     await bot.send_message(userid, embed=embednoti)
                     logger.info('Notification sent')
-                    #print(str(datetime.now().strftime("%H:%M:%S")), 'Notification sent')
                     break
 
 
 @bot.event
 async def on_ready():
     logger.info('Bot is online')
-    #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')) + 'Bot is online')
+
 
 @bot.event
 async def on_guild_join(guild):
@@ -170,7 +167,7 @@ async def on_guild_join(guild):
         except:
             response = f'{guild} is NOT added to database.'
     logger.info(f'{str(guild)} - {int(guild.id)}', response)
-    #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), f'{str(guild)} - {int(guild.id)}', response)
+
 
 @bot.event
 async def on_guild_remove(guild):
@@ -183,7 +180,7 @@ async def on_guild_remove(guild):
     else:
         response = f'{guild} is NOT in databse.'
     logger.info(response)
-    #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), response)
+
 
 
 @slash.slash(name = 'ping', description = 'Ping bot\'s latency', guild_ids = [741769720830885970])
@@ -234,7 +231,7 @@ async def find(ctx:SlashContext, title:str):
                         recordlist.append((int(ctx.guild.id), str(ctx.message.author), int(ctx.message.author.id), listdata[0]))
                         dbsqlite.populate_mangauser_table(recordlist)
                         logger.info(f'{ctx.message.author} - {ctx.message.author.id} is added to database.')
-                        #print(f'{ctx.message.author} - {ctx.message.author.id} is added to database.')
+
                         response0 = f'{ctx.message.author} - {ctx.message.author.id} is now be able to follow manga.'
                     except:
                         response0 = f'{ctx.message.author} - {ctx.message.author.id} is still not be able to follow manga.'
@@ -342,7 +339,7 @@ async def unfollow_single(ctx:SlashContext, title:str):
         response = f'{cleanTitle} is NOT found!'
     await ctx.send(response, delete_after=5)
     logger.info(response)
-    #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), response)
+
 
 
 @slash.slash(name = 'unflallmanga', description='Unfollow all mangas from your list', guild_ids = [741769720830885970])
@@ -354,7 +351,7 @@ async def unfollow_all(ctx:SlashContext):
         response = f'Failed. {ctx.message.author} is still following some mangas.'
     await ctx.send(response, delete_after=5)
     logger.info(response)
-    #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), response)
+
 
 
 @bot.command(name = 'mymangalist', description='View your entire manga list', guild_ids = [741769720830885970])

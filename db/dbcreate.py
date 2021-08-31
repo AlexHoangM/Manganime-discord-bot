@@ -23,25 +23,24 @@ try:
 
     sqlite_mangaupdate_table='''CREATE TABLE mangaupdate(
         title TEXT NOT NULL,
-        chapter INTEGER,
-        data DATE,
+        chapter TEXT NOT NULL,
         author TEXT NOT NULL,
-        link TEXT NOT NULL
+        date DATE
     );'''
 
     sqlite_scanlator_table='''CREATE TABLE scanlator(
         title TEXT NOT NULL,
-        chapter INTERGER,
-        data DATE,
+        chapter TEXT NOT NULL,
         author TEXT NOT NULL,
-        link TTEXT NOT NULL
+        date DATE,
+        link TEXT NOT NULL
     );'''
 
     sqlite_fanfox_table='''CREATE TABLE fanfox(
         title TEXT NOT NULL,
-        chapter INTEGER,
-        data DATE,
+        chapter TEXT NOT NULL,
         author TEXT NOT NULL,
+        date DATE,
         link TEXT NOT NULL
     );'''
 

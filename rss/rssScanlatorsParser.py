@@ -144,7 +144,7 @@ def rssParser():
             else:
                 pass
 
-            cleanTitle = uncleanTitle[0].replace('–', '').replace('\\', '').strip()
+            cleanTitle = uncleanTitle[0].replace('–', '').replace('\\', '').replace('&#039;', '\'').strip()
 
             chaplist = []
 
@@ -163,8 +163,6 @@ def rssParser():
             else:
                 cleanChapter = ''
 
-            mangaInfo.append({'Title': cleanTitle, 'Chapter': cleanChapter, 'Date': pubdate, 'Author': author, 'Link': url, 'Source': author})
+            mangaInfo.append({'Title': cleanTitle, 'Chapter': cleanChapter, 'Date': pubdate, 'Author': author, 'Link': url})
 
     return mangaInfo
-
-print(rssParser())

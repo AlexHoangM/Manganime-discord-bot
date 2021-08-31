@@ -3,7 +3,7 @@ from datetime import datetime
 import logging
 
 
-logger = logging.getLogger('__name__')
+#logger = logging.getLogger('__name__')
 
 
 def rssParser():
@@ -49,6 +49,6 @@ def rssParser():
 
         cleanTitle = uncleanTitle[0].replace('&apos;', '\'').replace('%26', '&').strip()
 
-        mangaInfo.append({'title': cleanTitle, 'Chapter': chapter, 'Date': date, 'Author': '' , 'Link': url, 'Source': 'FanFox'})    
+        mangaInfo.append({'Title': cleanTitle, 'Chapter': chapter, 'Date': date, 'Author': 'FanFox', 'Link': url})    
     
     return mangaInfo
