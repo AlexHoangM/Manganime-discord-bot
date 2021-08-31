@@ -27,7 +27,7 @@ def select_guild(guildid) -> bool:
         cursor.close()
         
     except sqlite3.Error as error:
-        logger.error('Failed to get guildid', error)
+        logger.error(f'Failed to get guildid {error}')
     finally:
         if connection:
             connection.close()
