@@ -1,0 +1,479 @@
+[{'Title': 'Please Take Care of Me in This Life As Well', 'Chapter': 55, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d95471-fb6c-471a-8220-4ae167591923/read'}
+, {'Title': 'Who Made Me a Princess', 'Chapter': 105, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d952e4-6b7d-46c9-8dae-27221b25086d/read'}
+, {'Title': 'Hotel Inhumans', 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d95238-8ef9-449f-857b-7ffd8763e749/read'}
+, {'Title': 'Shuumatsu No Valkyrie', 'Chapter': 50, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d95217-4fda-4bea-8c9f-52e6d5b2bd91/read'}
+, {'Title': 'Blue Lock', 'Chapter': 140, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d95171-30f1-4db7-8d9a-b3d4e57452ea/read'}
+, {'Title': 'Rooftop Sword Master', 'Chapter': 75, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d9504a-e59d-45ab-80c0-bb9c99afdf79/read'}
+, {'Title': 'Please Take Care of Me in This Life As Well', 'Chapter': 54, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94f77-35ef-4c29-863b-8d64877fff32/read'}
+, {'Title': 'DanDaDan', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94e1c-76ac-4650-86d0-b62c20847447/read'}
+, {'Title': 'Blue Lock', 'Chapter': 139, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94bee-ee4b-47b7-8a53-15c5f286dea8/read'}
+, {'Title': 'Please Take Care of Me in This Life As Well', 'Chapter': 53, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94936-6f83-4066-86cb-dababf71b1f9/read'}
+, {'Title': 'DanDaDan', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d9488d-0971-403c-83f8-32555cc2993a/read'}
+, {'Title': 'Hotel Inhumans', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94539-d9f3-4c7a-871e-252afe9fc327/read'}
+, {'Title': 'Please Take Care of Me in This Life As Well', 'Chapter': 52, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d9446f-0b34-45b4-843d-694d48652d09/read'}
+, {'Title': 'Who Made Me a Princess', 'Chapter': 104, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d942f1-fbae-40b4-896f-df64e944d2ae/read'}
+, {'Title': "A Battle God's Second Chance", 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d94252-c7e1-4e49-8cea-8a05899b3a8c/read'}
+, {'Title': 'The House Without Time', 'Chapter': 30.3, 'Date': '2021-08-02', 'Author': 'Arang Scans', 'Link': 'https://arangscans.com/chapters/08d9423e-19f4-4fa4-8505-f82ab0522516/read'}
+, {'Title': 'The Ancient Sovereign of Eternity Chapter', 'Chapter': 11, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/the-ancient-sovereign-of-eternity-chapter-11/'}
+, {'Title': 'I Got Caught Up In a Hero Summon, But the Other World was At Peace Chapter', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/i-got-caught-up-in-a-hero-summon-but-the-other-world-was-at-peace-chapter-29/'}
+, {'Title': 'A Returner’s Magic Should Be Special Chapter', 'Chapter': 159, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/a-returners-magic-should-be-special-chapter-159/'}
+, {'Title': 'To Not Die Chapter', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/to-not-die-chapter-15/'}
+, {'Title': 'To Not Die Chapter', 'Chapter': 14, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/to-not-die-chapter-14/'}
+, {'Title': 'To Not Die Chapter', 'Chapter': 13, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/to-not-die-chapter-13/'}
+, {'Title': 'Jungle Juice Chapter', 'Chapter': 35, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/jungle-juice-chapter-35/'}
+, {'Title': 'Omniscient Reader’s Viewpoint Chapter', 'Chapter': 66, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/omniscient-readers-viewpoint-chapter-66/'}
+, {'Title': '', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/28ch1/'}
+ , {'Title': 'My Wife Is Actually The Empress? Chapter', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Flame Scans', 'Link': 'https://flamescans.org/my-wife-is-actually-the-empress-chapter-29/'}, {'Title': 'The Sacred Ruins', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/836286-the-sacred-ruins/1/0'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 64, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/64'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 87, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/87'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 63, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/63'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 86, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/86'}
+ , {'Title': 'The Forgetful Dark Lord', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/896223-the-forgetful-dark-lord/1/5'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 62, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/62'}
+ , {'Title': 'The Forgetful Dark Lord', 'Chapter': 4, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/896223-the-forgetful-dark-lord/1/4'}
+ , {'Title': 'The Forgetful Dark Lord', 'Chapter': 3, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/896223-the-forgetful-dark-lord/1/3'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 85, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/85'}
+ , {'Title': 'The Forgetful Dark Lord', 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/896223-the-forgetful-dark-lord/1/2'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 61, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/61'}
+ , {'Title': 'The Forgetful Dark Lord', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/896223-the-forgetful-dark-lord/1/1'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 60, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/60'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 84, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/84'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 82, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/82'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 83, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/83'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 59, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/59'}
+ , {'Title': 'Isekai Tensei Soudouki', 'Chapter': 58, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/826751-isekai-tensei-soudouki/6/58'}
+ , {'Title': 'X Epoch of Dragon', 'Chapter': 81, 'Date': '2021-08-02', 'Author': 'Hatigarm Scans', 'Link': 'https://hatigarmscanz.net/comics/469569-x-epoch-of-dragon/1/81'}
+ , {'Title': 'Escort Warrior', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/970201-escort-warrior/1/29'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/24'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/23'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/22'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/21'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/20'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/19'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 18, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/18'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 17, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/17'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/16'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/15'}
+ , {'Title': 'The Greatest in the World', 'Chapter': 14, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/844292-the-greatest-in-the-world/1/14'}
+ , {'Title': 'Dropped into Another World... Purification is Basic!', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/144440-dropped-into-another-world-purification-is-basic/1/5'}
+ , {'Title': 'Escort Warrior', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/970201-escort-warrior/1/28'},
+  {'Title': 'Moshin Hunter', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/22'}
+  , {'Title': 'Moshin Hunter', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/21'}
+  , {'Title': 'Moshin Hunter', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/20'}
+  , {'Title': 'Moshin Hunter', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/19'}
+  , {'Title': 'Moshin Hunter', 'Chapter': 18, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/18'}
+  , {'Title': 'Moshin Hunter', 'Chapter': 17, 'Date': '2021-08-02', 'Author': 'Hunlight Scans', 'Link': 'https://hunlight-scans.info/comics/755149-moshin-hunter/1/17'}
+  , {'Title': 'Duke of Death 187', 'Chapter': 188, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/08/02/duke-of-death-187-188/'}
+  , {'Title': 'Black Mage', 'Chapter': 12, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/08/01/black-mage-12/'}
+  , {'Title': 'Sweet Dreams', 'Chapter': 249, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/31/sweet-dreams-249/'}
+  , {'Title': 'Sweet Dreams', 'Chapter': 248, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/27/sweet-dreams-248/'}
+  , {'Title': 'Frieren', 'Chapter': 60, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/27/frieren-60/'}
+  , {'Title': 'Yakuza', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/26/yakuza-24/'}
+  , {'Title': 'Devil Wife', 'Chapter': 12, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/23/devil-wife-12/'}
+  , {'Title': 'Assassin Aristocrat', 'Chapter': 13, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/22/assassin-aristocrat-13/'}
+  , {'Title': 'Frieren', 'Chapter': 59, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/20/frieren-59/'}
+  , {'Title': 'Edgelord', 'Chapter': 37.5, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/19/edgelord-37-5/'}
+  , {'Title': 'Dai Dark', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/19/dai-dark-22/'}
+  , {'Title': 'Sweet Dreams', 'Chapter': 247, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/19/sweet-dreams-247/'}
+  , {'Title': 'Former World 1 – Chapter', 'Chapter': 26, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/15/former-world-1-chapter-26/'}
+  , {'Title': 'Decade Legend', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/13/decade-legend-19/'}
+  , {'Title': 'Frieren', 'Chapter': 58, 'Date': '2021-08-02', 'Author': 'Kirei Cake', 'Link': 'https://kireicake.com/2021/07/13/frieren-58/'}
+  , {'Title': 'Hiraheishi wa Kako o', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-hiraheishi-wa-kako-o-yumemiru.html'}
+  , {'Title': 'Black', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-black-summoner.html'}
+  , {'Title': 'Demon Kings Town Planning! ~The Strongest Dungeon is a Modern', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-maou-sama-no-machizukuri-saikyou-no-danjon-wa-kindai-toshi.html'}
+  , {'Title': 'The Guild Official With The Out', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-the-guild-official-with-the-out-of-the-way-skill-shadowy-is-in-fact-the-legendary-assassin.html'}
+  , {'Title': 'Isekai Cheat', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-isekai-cheat-magician.html'}
+  , {'Title': 'Tenkuu no Shiro o Moratta no de Isekai de Tanoshiku', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-tenkuu-no-shiro-o-moratta-no-de-isekai-de-tanoshiku-asobitai.html'}
+  , {'Title': 'Henkyou Gurashi No Maou, Tensei Shite Saikyou No Majutsushi Ni', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru.html'}
+  , {'Title': 'Murabito desu ga Nani', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-murabito-desu-ga-nani-ka.html'}
+  , {'Title': 'Hachinan tte, Sore wa Nai', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-hachinan-tte-sore-wa-nai-deshou.html'}
+  , {'Title': 'I Was a Sword When I', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-i-was-a-sword-when-i-reincarnated.html'}
+  , {'Title': 'Skeleton Knight, in Another', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-skeleton-knight-in-another-world.html'}
+  , {'Title': 'Jaryuu', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-jaryuu-tensei.html'}
+  , {'Title': "The Maou Army\\'s Strongest Magician Was a", 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-maou-gun-saikyou-no-majutsushi-wa-ningen-datta.html'}
+  , {'Title': 'Boku no Kawaii Musume wa Futago no', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-boku-no-kawaii-musume-wa-futago-no-kenja.html'}
+  , {'Title': 'Saikyou no Shokugyou wa Yuusha demo Kenja demo naku Kanteishi (Kari) rashii desu', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'LHTranslation', 'Link': 'https://lhtranslation.net//truyen-saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo.html'}
+  , {'Title': 'Dungeon Sherpa', 'Chapter': 3, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/180574-dungeon-sherpa/1/3'}
+  , {'Title': 'Life and Death: The Awakening', 'Chapter': 36, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/123802-life-and-death-the-awakening/1/36'}
+  , {'Title': 'Life and Death: The Awakening', 'Chapter': 34, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/123802-life-and-death-the-awakening/1/34'}
+  , {'Title': 'Life and Death: The Awakening', 'Chapter': 35, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/123802-life-and-death-the-awakening/1/35'}
+  , {'Title': 'Life and Death: The Awakening', 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/123802-life-and-death-the-awakening/1/33'}
+  , {'Title': 'The Story of a Low', 'Chapter': 38, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/248175-the-story-of-a-low-rank-soldier-becoming-a-monarch/1/38'}
+  , {'Title': 'The Story of a Low', 'Chapter': 37, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/248175-the-story-of-a-low-rank-soldier-becoming-a-monarch/1/37'}
+  , {'Title': 'The Story of a Low', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/248175-the-story-of-a-low-rank-soldier-becoming-a-monarch/1/40'}
+  , {'Title': 'The Story of a Low', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/248175-the-story-of-a-low-rank-soldier-becoming-a-monarch/1/39'}
+  , {'Title': 'Dimensional Mercenary', 'Chapter': 163, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/754862-dimensional-mercenary/4/163'}
+  , {'Title': 'Dimensional Mercenary', 'Chapter': 161, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/754862-dimensional-mercenary/4/161'}
+  , {'Title': 'Dimensional Mercenary', 'Chapter': 164, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/754862-dimensional-mercenary/4/164'}
+  , {'Title': 'Dimensional Mercenary', 'Chapter': 162, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/754862-dimensional-mercenary/4/162'}
+  , {'Title': 'Tomb Raider King', 'Chapter': 242, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/598007-tomb-raider-king/1/242'}
+  , {'Title': 'A Way to Protect the Lovable You', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/2822-a-way-to-protect-the-lovable-you/1/28'}
+  , {'Title': 'Villainess Needs a Tyrant', 'Chapter': 18, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/937864-villainess-needs-a-tyrant/1/18'}
+  , {'Title': 'Villainess Needs a Tyrant', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/937864-villainess-needs-a-tyrant/1/19'}
+  , {'Title': 'Villainess Needs a Tyrant', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/937864-villainess-needs-a-tyrant/1/20'}
+  , {'Title': 'Villainess Needs a Tyrant', 'Chapter': 17, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/937864-villainess-needs-a-tyrant/1/17'}
+  , {'Title': 'Villainess Needs a Tyrant', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'Lynx Scans', 'Link': 'https://lynxscans.com/comics/937864-villainess-needs-a-tyrant/1/16'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 85, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-85/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 47, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-47/'}
+  , {'Title': 'Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita', 'Chapter': 35, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-1907/chapter-35/'}
+  , {'Title': 'Saikyou no Shuzoku ga Ningen Datta Ken', 'Chapter': 60, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/saikyou-no-shuzoku-ga-ningen-datta-ken-1941/chapter-60/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 84, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-84/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 83, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-83/'}
+  , {'Title': 'Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta', 'Chapter': 47, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-genjitsu-wa-renai-game-ka-to-omottara-inochigake-no-game-datta-1865/chapter-47/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 82, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-82/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 93, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-93/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 92, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-92/'}
+  , {'Title': '100', 'Chapter': 26, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/100-nin-no-eiyuu-o-sodateta-saikyou-yogensha-wa-boukensha-ni-natte-mo-sekaijuu-no-deshi-kara-shitawarete-masu-1901/chapter-26/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 46, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-46/'}
+  , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 55, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-55/'}
+  , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 54, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-54/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 45, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-45/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 74.1, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-74-1/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 74.2, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-74-2/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 44, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-44/'}
+  , {'Title': 'Kyoukai Meikyuu to Ikai no Majutsushi', 'Chapter': 34, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kyoukai-meikyuu-to-ikai-no-majutsushi-1934/chapter-34/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 8, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-08/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 7, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-07/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 6, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-06/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-05/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 34, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-34/'}
+  , {'Title': 'Saikyou no Shuzoku ga Ningen Datta Ken', 'Chapter': 59, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/saikyou-no-shuzoku-ga-ningen-datta-ken-1941/chapter-59/'}
+  , {'Title': 'Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta', 'Chapter': 46, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-genjitsu-wa-renai-game-ka-to-omottara-inochigake-no-game-datta-1865/chapter-46/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 43, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-43/'}
+  , {'Title': 'Itai no wa Iya nanode Bougyo', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/itai-no-wa-iya-nanode-bougyo-ryoku-ni-kyokufuri-shitai-to-omoimasu-1857/chapter-25/'}
+  , {'Title': 'Kuro no Maou', 'Chapter': 30, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kuro-no-maou-1962/chapter-30/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 91, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-91/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 90, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-90/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 89, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-89/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 74, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-74/'}, {'Title': 'Saikyou Yuusha wa Oharai Hako: Maou ni Nattara Zutto Ore no Musou Return', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/saikyou-yuusha-wa-oharai-hako-maou-ni-nattara-zutto-ore-no-musou-return-1956/chapter-22/'}
+  , {'Title': '100', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/100-nin-no-eiyuu-o-sodateta-saikyou-yogensha-wa-boukensha-ni-natte-mo-sekaijuu-no-deshi-kara-shitawarete-masu-1901/chapter-25/'}
+  , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 53, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-53/'}
+  , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 52, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-52/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 88, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-88/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 87, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-87/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 86, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-86/'}
+  , {'Title': 'Yuukyuu no Gusha Asley no, Kenja no Susume', 'Chapter': 41, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yuukyuu-no-gusha-asley-no-kenja-no-susume-1929/chapter-41/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 73, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-73/'}, {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 72, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-72/'}, {'Title': 'Kuro no Maou', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kuro-no-maou-1962/chapter-29/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 42, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-42/'}
+  , {'Title': 'Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita', 'Chapter': 34, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-1907/chapter-34/'}
+  , {'Title': 'Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita', 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-1907/chapter-33/'}
+  , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-33/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 81, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-81/'}
+  , {'Title': 'Yondome wa Iya na Shizokusei Majutsushi', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yondome-wa-iya-na-shizokusei-majutsushi-1875/chapter-25/'}
+  , {'Title': 'Kanzen Kaihi Healer no Kiseki', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kanzen-kaihi-healer-no-kiseki-1937/chapter-21/'}
+  , {'Title': 'Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta', 'Chapter': 45, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-genjitsu-wa-renai-game-ka-to-omottara-inochigake-no-game-datta-1865/chapter-45/'}
+  , {'Title': 'Yuukyuu no Gusha Asley no, Kenja no Susume', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yuukyuu-no-gusha-asley-no-kenja-no-susume-1929/chapter-40/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 80, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-80/'}
+  , {'Title': 'Nido Tensei Shita Shounen wa S Rank Boukensha Toshite Heion ni Sugosu', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/nido-tensei-shita-shounen-wa-s-rank-boukensha-toshite-heion-ni-sugosu-zense-ga-kenja-de-eiyuu-datta-boku-wa-raisede-wa-jimini-ikiru-1870/chapter-22/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 41, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-41/'}
+  , {'Title': 'Nido Tensei Shita Shounen wa S Rank Boukensha Toshite Heion ni Sugosu', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/nido-tensei-shita-shounen-wa-s-rank-boukensha-toshite-heion-ni-sugosu-zense-ga-kenja-de-eiyuu-datta-boku-wa-raisede-wa-jimini-ikiru-1870/chapter-21/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 71, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-71/'}, {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-40/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 79, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-79/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-39/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 85, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-85/'}
+  , {'Title': 'Lonely Attack on the Different World', 'Chapter': 84, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-84/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 78, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-78/'}
+  , {'Title': 'Kyoukai Meikyuu to Ikai no Majutsushi', 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kyoukai-meikyuu-to-ikai-no-majutsushi-1934/chapter-33/'}
+  , {'Title': 'Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita', 'Chapter': 32, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shin-no-nakama-janai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-1907/chapter-32/'}
+  , {'Title': 'Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta', 'Chapter': 44, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-genjitsu-wa-renai-game-ka-to-omottara-inochigake-no-game-datta-1865/chapter-44/'}
+  , {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 70, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-70/'}, {'Title': 'Sukinako ga Megane wo Wasureta', 'Chapter': 69, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/sukinako-ga-megane-wo-wasureta-1862/chapter-69/'}, {'Title': 'Saikyou Yuusha wa Oharai Hako: Maou ni Nattara Zutto Ore no Musou Return', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/saikyou-yuusha-wa-oharai-hako-maou-ni-nattara-zutto-ore-no-musou-return-1956/chapter-21/'}
+  , {'Title': 'Welcome to the Cheap Restaurant of Outcasts!', 'Chapter': 14, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/welcome-to-the-cheap-restaurant-of-outcasts-1954/chapter-14/'}
+  , {'Title': 'Kuro no Maou', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kuro-no-maou-1962/chapter-28/'}
+  , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 77, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-77/'}
+  , {'Title': 'Kanzen Kaihi Healer no Kiseki', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kanzen-kaihi-healer-no-kiseki-1937/chapter-20/'}
+  , {'Title': 'Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru', 'Chapter': 38, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-1879/chapter-38/'}
+  , {'Title': '"Kouryakuhon" o Kushi Suru Saikyou no Mahoutsukai ~< Meirei sa sero > to wa Iwa Senai Oreryuu Mao Tobatsu Saizen Ruuto ~', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kouryakuhon-o-kushi-suru-saikyou-no-mahoutsukai-meirei-sa-sero-to-wa-iwa-senai-oreryuu-mao-tobatsu-saizen-ruuto-1897/chapter-22/'},
+   {'Title': 'Yakudatazu Skill ni Jinsei o Sosogikomi 25', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akira-1911/chapter-16/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 83, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-83/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 82, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-82/'}
+   , {'Title': '100', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/100-nin-no-eiyuu-o-sodateta-saikyou-yogensha-wa-boukensha-ni-natte-mo-sekaijuu-no-deshi-kara-shitawarete-masu-1901/chapter-24/'}
+   , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 32, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-32/'}
+   , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 76, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-76/'}
+   , {'Title': 'Kanzen Kaihi Healer no Kiseki', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kanzen-kaihi-healer-no-kiseki-1937/chapter-19/'}
+   , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 51, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-51/'}
+   , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 50, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-50/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 81, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-81/'}
+   , {'Title': 'Welcome to the Cheap Restaurant of Outcasts!', 'Chapter': 13, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/welcome-to-the-cheap-restaurant-of-outcasts-1954/chapter-13/'}
+   , {'Title': 'Ore no Ie ga Maryoku Spot datta Ken – Sundeiru dake de Sekai Saikyou', 'Chapter': 75, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou-1867/chapter-75/'}
+   , {'Title': 'Rettou Me no Tensei Majutsushi Shiitage Rareta Moto Yuusha wa Mirai no Sekai o Yoyuu de Ikinuku', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/rettou-me-no-tensei-majutsushi-shiitage-rareta-moto-yuusha-wa-mirai-no-sekai-o-yoyuu-de-ikinuku-1877/chapter-28/'}
+   , {'Title': 'Kuro no Maou', 'Chapter': 27, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kuro-no-maou-1962/chapter-27/'}
+   , {'Title': 'Game of Familia: Kazoku Senki', 'Chapter': 31, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/game-of-familia-kazoku-senki-1853/chapter-31/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 80, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-80/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 79, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-79/'}
+   , {'Title': 'Yakudatazu Skill ni Jinsei o Sosogikomi 25', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akira-1911/chapter-15/'}
+   , {'Title': 'Yondome wa Iya na Shizokusei Majutsushi', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yondome-wa-iya-na-shizokusei-majutsushi-1875/chapter-24/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 78, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-78/'}
+   , {'Title': 'Lonely Attack on the Different World', 'Chapter': 77, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/lonely-attack-on-the-different-world/chapter-77/'}
+   , {'Title': 'Kyoukai Meikyuu to Ikai no Majutsushi', 'Chapter': 32, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/kyoukai-meikyuu-to-ikai-no-majutsushi-1934/chapter-32/'}
+   , {'Title': 'Yakudatazu Skill ni Jinsei o Sosogikomi 25', 'Chapter': 14, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akira-1911/chapter-14/'}
+   , {'Title': 'Yuukyuu no Gusha Asley no, Kenja no Susume', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Mangasushi', 'Link': 'https://mangasushi.net/manga/yuukyuu-no-gusha-asley-no-kenja-no-susume-1929/chapter-39/'}
+   , {'Title': 'Murim Login', 'Chapter': 73, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/73'}
+   , {'Title': 'Murim Login', 'Chapter': 72, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/72'}
+   , {'Title': 'Murim Login', 'Chapter': 71, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/71'}
+   , {'Title': 'Murim Login', 'Chapter': 70, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/70'}
+   , {'Title': 'Murim Login', 'Chapter': 69, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/69'}
+   , {'Title': 'Murim Login', 'Chapter': 68, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/68'}
+   , {'Title': 'Murim Login', 'Chapter': 67, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/67'}
+   , {'Title': 'Murim Login', 'Chapter': 66, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/66'}
+   , {'Title': 'Murim Login', 'Chapter': 65, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/65'}
+   , {'Title': 'Murim Login', 'Chapter': 64, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/64'}
+   , {'Title': 'Murim Login', 'Chapter': 63, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/63'}
+   , {'Title': 'Murim Login', 'Chapter': 62, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/62'}
+   , {'Title': 'Murim Login', 'Chapter': 61, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/61'}
+   , {'Title': 'Murim Login', 'Chapter': 60, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/60'}
+   , {'Title': 'Murim Login', 'Chapter': 59, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/59'}
+   , {'Title': 'Murim Login', 'Chapter': 58, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/58'}
+   , {'Title': 'Murim Login', 'Chapter': 57, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/57'}
+   , {'Title': 'Murim Login', 'Chapter': 56, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/56'}
+   , {'Title': 'Murim Login', 'Chapter': 55, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/55'}
+   , {'Title': 'Murim Login', 'Chapter': 54, 'Date': '2021-08-02', 'Author': 'MethodScan', 'Link': 'https://methodscans.com/comics/741529-murim-login/1/54'}
+   , {'Title': 'Asmodeus wa Akiramenai', 'Chapter': 47, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d943c5-a575-4384-8dde-26243d2e2ad2/read'}
+   , {'Title': 'Tensei Ouji wa (Gakuen Demo) Daraketai', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d941ad-16af-4ca6-851b-e32ae9f35529/read'}, {'Title': "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator", 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d940c4-9c82-420d-81e5-85072bd91540/read'}
+   , {'Title': 'Colorless', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d94093-d0a7-450f-8a1b-ab6046006f4c/read'}
+   , {'Title': 'Asmodeus wa Akiramenai', 'Chapter': 46.2, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d9408c-526a-4f9b-8f07-f8e5d18bdd78/read'}
+   , {'Title': "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator", 'Chapter': 32, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d93f1f-2e8f-4cb3-8d77-1112f975c00e/read'}
+   , {'Title': 'Colorless', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d93ce0-b2d7-4930-8171-784341bccbd5/read'}
+   , {'Title': 'Henkyou no Roukishi', 'Chapter': 27, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d93cd2-1ee8-4dbe-8884-1bd70d18f8a4/read'}
+   , {'Title': 'Bonkotsu Shinpei no Monster Life', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d93c2c-6e3e-4b0d-8272-cbccb258a86c/read'}
+   , {'Title': "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator", 'Chapter': 31, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d93b40-8f6d-463c-8fc5-c08a8bab3a0f/read'}
+   , {'Title': 'Asmodeus wa Akiramenai', 'Chapter': 46.1, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d935c2-cbc3-4ff1-87fa-fff72dd717a8/read'}
+   , {'Title': "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator", 'Chapter': 30, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d91e17-451b-4064-8b6b-5b6305a81753/read'}
+   , {'Title': 'Heart', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d91e17-3f54-41f7-8ef6-93d9463c368f/read'}
+   , {'Title': "Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnator", 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d9043d-e67c-4251-895e-49d398c9a11f/read'}
+   , {'Title': 'Heart', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d901d3-0718-4e09-83b2-4ea4b760c60b/read'}
+   , {'Title': 'Asmodeus wa Akiramenai', 'Chapter': 45, 'Date': '2021-08-02', 'Author': 'NANI? Scans', 'Link': 'https://naniscans.com/chapters/08d8fd36-237b-4ec2-8129-45b39e118e5d/read'}
+   , {'Title': 'Re: Chapter', 'Chapter': 687, 'Date': '2021-08-02', 'Author': 'SensesScans', 'Link': 'https://sensescans.com/index.php?topic=5617.msg27559#msg27559'}
+   , {'Title': 'Re: Chapter', 'Chapter': 687, 'Date': '2021-08-02', 'Author': 'SensesScans', 'Link': 'https://sensescans.com/index.php?topic=5617.msg27558#msg27558'}
+   , {'Title': 'Chapter', 'Chapter': 687, 'Date': '2021-08-02', 'Author': 'SensesScans', 'Link': 'https://sensescans.com/index.php?topic=5617.msg27557#msg27557'}
+   , {'Title': 'Re: Kingdom Chapter', 'Chapter': 687, 'Date': '2021-08-02', 'Author': 'SensesScans', 'Link': 'https://sensescans.com/index.php?topic=5616.msg27556#msg27556'}
+   , {'Title': 'Re: Kingdom Chapter', 'Chapter': 687, 'Date': '2021-08-02', 'Author': 'SensesScans', 'Link': 'https://sensescans.com/index.php?topic=5616.msg27555#msg27555'}
+   , {'Title': 'Lord of Money', 'Chapter': 44, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-44/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 58, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-58/'}
+   , {'Title': 'Again My Life', 'Chapter': 117, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-117/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 76, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-76-first-letter-of-the-year/'}
+   , {'Title': 'Bouken', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/bouken-ka-ni-narou-skill-board-de-dungeon-kouryaku/vol-5-ch-21/'}
+   , {'Title': 'Elqueeness', 'Chapter': 112, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-112/'}
+   , {'Title': 'Again My Life', 'Chapter': 116, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-116/'}
+   , {'Title': 'Again My Life', 'Chapter': 115, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-115/'}
+   , {'Title': 'Elqueeness', 'Chapter': 111, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-111/'}
+   , {'Title': 'Lord of Money', 'Chapter': 43, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-43/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 57, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-57/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 56, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-56/'}
+   , {'Title': 'Again My Life', 'Chapter': 114, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-114/'}
+   , {'Title': "We were living apart, so let's start my family again", 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-are-living-apart-so-lets-start-my-family-again/ch-2/'}
+   , {'Title': 'Elqueeness', 'Chapter': 110, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-110/'}
+   , {'Title': "I'm Nearly 30, but This Is My First Love", 'Chapter': 53, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-nearly-30-but-this-is-my-first-love/vol-7-ch-53/'}
+   , {'Title': 'Live Dungeon!', 'Chapter': 38, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/live-dungeon/vol-7-ch-38-the-start-of-the-stampede/'}
+   , {'Title': 'Again My Life', 'Chapter': 113, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-113/'}
+   , {'Title': 'Elqueeness', 'Chapter': 109, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-109/'}
+   , {'Title': 'Again My Life', 'Chapter': 112, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-112/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 31, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-31/'}
+   , {'Title': 'Lord of Money', 'Chapter': 42, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-42/'}
+   , {'Title': 'Again My Life', 'Chapter': 111, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-111/'}
+   , {'Title': 'Elqueeness', 'Chapter': 108, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-108/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 55, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-55/'}
+   , {'Title': 'Again My Life', 'Chapter': 110, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-110/'}
+   , {'Title': 'Again My Life', 'Chapter': 109, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-109/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 26, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-26/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-25/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-24/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-23/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 6, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-6/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-5/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-22/'}
+   , {'Title': 'For Certain Reasons, The Villainess Noble Lady Will Live Her Post', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/for-certain-reasons-the-villainess-noble-lady-will-live-her-post-engagement-annulment-life-freely/ch-21/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 10, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-10/'}
+   , {'Title': 'Kenja no Mago', 'Chapter': 59, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/kenja-no-mago/ch-59/'}
+   , {'Title': 'Elqueeness', 'Chapter': 107, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-107/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 9, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-9/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 8, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-8/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 30, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-30/'}
+   , {'Title': 'Again My Life', 'Chapter': 108, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-108/'}
+   , {'Title': 'Lord of Money', 'Chapter': 41, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-41/'}
+   , {'Title': 'Lord of Money', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-40/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 54, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-54/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 75, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-75-happy-new-year/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 74, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-74-new-years-eve/'}
+   , {'Title': 'Again My Life', 'Chapter': 107, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-107/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-29/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 7, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-7/'}
+   , {'Title': 'Lord of Money', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-39/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 53, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-53/'}
+   , {'Title': 'Because of Her Love for Sake, the Otome Game Setting Was Broken and the Villainous Noblewoman Became the Noblewoman With Cheats', 'Chapter': 12, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/because-of-her-love-for-sake-the-otome-game-setting-was-broken-and-the-villainous-noblewoman-became-the-noblewoman-with-cheats/ch-12/'}
+   , {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-111-season-1-finale/'
+   }, {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 110, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-110/'}
+   , {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 109, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-109/'}
+   , {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 108, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-108/'}
+   , {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 107, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-107/'}
+   , {'Title': "I'm in Trouble With She Who Has Too Much Libido", 'Chapter': 106, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/im-in-trouble-with-she-who-has-too-much-libido/ch-106/'}
+   , {'Title': 'Again My Life', 'Chapter': 106, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-106/'}
+   , {'Title': 'Tanaka ke, Tensei Suru.', 'Chapter': 4, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tanaka-ke-tensei-suru/ch-4/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-28/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 52, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-52/'}
+   , {'Title': 'Again My Life', 'Chapter': 105, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-105/'}
+   , {'Title': 'Again My Life', 'Chapter': 104, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-104/'}
+   , {'Title': 'Lord of Money', 'Chapter': 38, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-38/'}
+   , {'Title': 'Live Dungeon!', 'Chapter': 37, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/live-dungeon/vol-7-ch-37-combined-practise/'}
+   , {'Title': 'Elqueeness', 'Chapter': 106, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-106/'}
+   , {'Title': 'Elqueeness', 'Chapter': 105, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-105/'}
+   , {'Title': "We were living apart, so let's start my family again", 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-are-living-apart-so-lets-start-my-family-again/ch-1/'}
+   , {'Title': 'Again My Life', 'Chapter': 104, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-104/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 27, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-27/'}
+   , {'Title': 'Lord of Money', 'Chapter': 37, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-37/'}
+   , {'Title': 'Elqueeness', 'Chapter': 104, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-104/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 51, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-51/'}
+   , {'Title': 'Because of Her Love for Sake, the Otome Game Setting Was Broken and the Villainous Noblewoman Became the Noblewoman With Cheats', 'Chapter': 11, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/because-of-her-love-for-sake-the-otome-game-setting-was-broken-and-the-villainous-noblewoman-became-the-noblewoman-with-cheats/ch-11/'}
+   , {'Title': 'Kenja no Mago', 'Chapter': 58, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/kenja-no-mago/ch-58/'}
+   , {'Title': 'Elqueeness', 'Chapter': 103, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-103/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 73, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-73-i-have-never-stopped-looking-at-you/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 10, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-2-ch-10/'}
+   , {'Title': 'Lord of Money', 'Chapter': 36, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-36/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 26, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-26/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 50, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-50/'}
+   , {'Title': 'Tenshoku no Shinden o Hirakimashita', 'Chapter': 11, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/tenshoku-no-shinden-o-hirakimashita/ch-11/'}
+   , {'Title': 'Elqueeness', 'Chapter': 102, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-102/'}
+   , {'Title': 'Elqueeness', 'Chapter': 3, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-101-season-3/'}
+   , {'Title': 'Elqueeness', 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-100-season-2-extras/'}
+   , {'Title': 'Elqueeness', 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-99-season-2-finale/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-25/'}
+   , {'Title': 'Again My Life', 'Chapter': 103, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-103/'}
+   , {'Title': 'Lord of Money', 'Chapter': 35, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-35/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 49, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-49/'}
+   , {'Title': 'Elqueeness', 'Chapter': 98, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-98/'}
+   , {'Title': 'Elqueeness', 'Chapter': 97, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-97/'}
+   , {'Title': 'Elqueeness', 'Chapter': 96, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-96/'}
+   , {'Title': 'Elqueeness', 'Chapter': 95, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-95/'}
+   , {'Title': 'Elqueeness', 'Chapter': 94, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-94/'}
+   , {'Title': 'Lord of Money', 'Chapter': 34, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-34/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-24/'}
+   , {'Title': 'Live Dungeon!', 'Chapter': 36, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/live-dungeon/vol-7-ch-36-the-arrival-of-dragons-has-the-labyrinth-city-in-a-huge-panic/'}
+   , {'Title': 'Again My Life', 'Chapter': 102, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-102/'}
+   , {'Title': 'Elqueeness', 'Chapter': 93, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-93/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 48, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-48/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 72, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-72-masquerade-party/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 9, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-2-ch-9/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 8, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-2-ch-8/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 7, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-2-ch-7/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 6, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-2-ch-6/'}
+   , {'Title': 'Lord of Money', 'Chapter': 33, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-33/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-23/'}
+   , {'Title': 'Elqueeness', 'Chapter': 92, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-92/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 47, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-47/'}
+   , {'Title': 'Trigger', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-23/'}
+   , {'Title': 'Trigger', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-22/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 71, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-71-night-routine-for-a-single-day/'}
+   , {'Title': 'Because of Her Love for Sake, the Otome Game Setting Was Broken and the Villainous Noblewoman Became the Noblewoman With Cheats', 'Chapter': 10, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/because-of-her-love-for-sake-the-otome-game-setting-was-broken-and-the-villainous-noblewoman-became-the-noblewoman-with-cheats/ch-10/'}
+   , {'Title': 'Elqueeness', 'Chapter': 91, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-91/'}
+   , {'Title': 'Elqueeness', 'Chapter': 90, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-90/'}
+   , {'Title': 'Again My Life', 'Chapter': 101, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-101/'}
+   , {'Title': 'Lord of Money', 'Chapter': 32, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-32/'}
+   , {'Title': 'Elqueeness', 'Chapter': 89, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-89/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-22/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-21/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 46, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-46/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 45, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-45/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 44, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-44/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 43, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-43/'}
+   , {'Title': 'In an Otome Game World, I’m a Villain?! I Can’t Accept This!', 'Chapter': 4, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/in-an-otome-game-world-im-a-villain-i-cant-accept-this/ch-4-engagement-ceremony/'}
+   , {'Title': 'In an Otome Game World, I’m a Villain?! I Can’t Accept This!', 'Chapter': 3, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/in-an-otome-game-world-im-a-villain-i-cant-accept-this/ch-3-victor-feldra/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-20/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-19/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 18, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-18/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 17, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-17/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 16, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-16/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 15, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-15/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 14, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-14/'}
+   , {'Title': 'Kenja no Mago', 'Chapter': 57, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/kenja-no-mago/ch-57/'}
+   , {'Title': 'Elqueeness', 'Chapter': 88, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-88/'}
+   , {'Title': 'Elqueeness', 'Chapter': 87, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-87/'}
+   , {'Title': 'Elqueeness', 'Chapter': 86, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-86/'}
+   , {'Title': 'Elqueeness', 'Chapter': 85, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-85/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 13, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-13/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 12, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-12/'}
+   , {'Title': 'Lord of Money', 'Chapter': 31, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-31/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 42, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-42/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 11, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-11/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 10, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-10/'}
+   , {'Title': 'Again My Life', 'Chapter': 100, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-100/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 9, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-9/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 8, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-8/'}
+   , {'Title': 'Trigger', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-21/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 7, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-7/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 6, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-6/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 70, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-70-solution/'}
+   , {'Title': 'Trigger', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-20/'}
+   , {'Title': 'Trigger', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-19/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-5/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 4, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-4/'}
+   , {'Title': 'Trigger', 'Chapter': 18, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-18/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 3, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-3/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 2, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-2/'}
+   , {'Title': 'Lord of Money', 'Chapter': 30, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-30/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 41, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-41/'}
+   , {'Title': 'Countach', 'Chapter': 41, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/countach/vol-5-ch-41-ground-effect/'}
+   , {'Title': 'Trigger', 'Chapter': 17, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/trigger/ch-17/'}
+   , {'Title': 'Movies Are Real', 'Chapter': 1, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/movies-are-real/ch-1/'}
+   , {'Title': 'Elqueeness', 'Chapter': 84, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-84/'}
+   , {'Title': 'Elqueeness', 'Chapter': 83, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-83/'}
+   , {'Title': 'Elqueeness', 'Chapter': 82, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-82/'}
+   , {'Title': 'Elqueeness', 'Chapter': 81, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-81/'}
+   , {'Title': 'Countach', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/countach/vol-5-ch-40-encounter-with-legend-once-again-2/'}
+   , {'Title': 'Lord of Money', 'Chapter': 29, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-29/'}
+   , {'Title': 'Again My Life', 'Chapter': 99, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-99/'}
+   , {'Title': 'Live Dungeon!', 'Chapter': 35, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/live-dungeon/vol-7-ch-35-good-news-and/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-40/'}
+   , {'Title': 'Elqueeness', 'Chapter': 80, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-80/'}
+   , {'Title': 'Elqueeness', 'Chapter': 79, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-79/'}
+   , {'Title': 'Elqueeness', 'Chapter': 78, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-78/'}
+   , {'Title': 'Again My Life', 'Chapter': 98, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-98/'}
+   , {'Title': 'Elqueeness', 'Chapter': 77, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-77/'}
+   , {'Title': 'Again My Life', 'Chapter': 97, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-97/'}
+   , {'Title': 'Again My Life', 'Chapter': 96, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/again-my-life/ch-96/'}
+   , {'Title': 'Lord of Money', 'Chapter': 28, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/lord-of-money/ch-28/'}
+   , {'Title': 'From the Grave and Back', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/from-the-grave-and-back/ch-39/'}
+   , {'Title': 'The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God', 'Chapter': 5, 'Date': '2021-08-02', 'Author', 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/the-daughter-of-the-marquis-who-was-executed-under-false-accusation-wants-to-spend-a-peaceful-life-in-the-land-protected-by-god/vol-1-ch-5/'}
+   , {'Title': 'We May Be an Inexperienced Couple but...', 'Chapter': 69, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/we-may-be-an-inexperienced-couple-but/vol-9-ch-69-our-difference/'}
+   , {'Title': 'Elqueeness', 'Chapter': 76, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-76/'}
+   , {'Title': 'Elqueeness', 'Chapter': 75, 'Date': '2021-08-02', 'Author': 'Tritinia Scans', 'Link': 'https://tritinia.com/manga/elqueeness/ch-75/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 25, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/3e8e85c6-6d88-4aad-a364-a0ad6c31ce9a/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/cee33ae5-a21b-4b9c-9844-79555f5fec10/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/5610a42a-151e-4fba-885f-4b38a56e81a4/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/b83ae360-ad1c-48f8-843b-0f0542a0b01f/'}
+   , {'Title': "The Wolf Lord's Lady Vol. 3 Chapter", 'Chapter': 13.1, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/1669e02e-c313-453c-a605-3b697383d2ef/'}
+   , {'Title': 'SHIKKAKU KARA HAJIMERU NARIAGARI MADOU SHIDOU! Chapter', 'Chapter': 5, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/ebd2393e-24de-41f1-887e-d48e260cb064/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/b92c0c54-3aa6-4705-9ee9-c2b4a240481a/'}
+   , {'Title': 'Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru Chapter', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/00bbaf52-1684-4098-b982-5e991efd1968/'}
+   , {'Title': "The Wolf Lord's Lady Vol. 3 Chapter", 'Chapter': 12, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/dadb1db0-e39f-4fbf-ade4-bab7645a932f/'}
+   , {'Title': 'The Swordsman Called the Countless Swords Sorcerer Vol. 5 Chapter', 'Chapter': 24, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/f39307fc-75e5-4b9b-8aa5-95cb0ebe97eb/'}
+   , {'Title': "The Wolf Lord's Lady Vol. 3 Chapter", 'Chapter': 11, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/55be2f4c-790d-4631-b1a3-1805ef601c0b/'}
+   , {'Title': 'The Swordsman Called the Countless Swords Sorcerer Vol. 5 Chapter', 'Chapter': 23, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/31ef6e97-075e-4b0d-a644-ebda44e04656/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/c9ebca39-27b8-4d9f-83ee-163f0292ea42/'}
+   , {'Title': 'The Swordsman Called the Countless Swords Sorcerer Vol. 5 Chapter', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/af7ed717-1a1e-4a4d-a84f-5c2e723c2dfd/'}
+   , {'Title': 'Gacha Girl Corps Chapter', 'Chapter': 27, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/40ca025d-9fed-48f8-b699-d1ace27f3b91/'}
+   , {'Title': 'Gacha Girl Corps Chapter', 'Chapter': 26, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/fe4911de-53b9-468d-8401-e53f9e114c69/'}
+   , {'Title': 'SHIKKAKU KARA HAJIMERU NARIAGARI MADOU SHIDOU! Chapter', 'Chapter': 4, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/7cd45223-0dbb-4690-9933-c3fbf0e11bd3/'}
+   , {'Title': 'SHIKKAKU KARA HAJIMERU NARIAGARI MADOU SHIDOU! Chapter 3.5: Side', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/fbb51a7f-7f48-456e-8b87-bc6a8803902e/'}
+   , {'Title': 'The Swordsman Called the Countless Swords Sorcerer Vol. 4 Chapter', 'Chapter': 21, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/0c4ab450-494d-4c29-9687-8cbf40e5c802/'}
+   , {'Title': 'Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru Chapter', 'Chapter': 22, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/1da9cec8-4287-4533-888b-4e46ca718769/'}
+   , {'Title': 'Gacha Girl Corps Chapter 25: Great', 'Chapter': '', 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/4453423c-c3f7-4b43-86fd-8d40ff3e6517/'}
+   , {'Title': "Gacha Girl Corps Chapter 24: Reunion With Deius'", 'Chapter': '', 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/8fdaa898-a5d7-4a13-897a-9b7eb5074bb8/'}
+   , {'Title': 'The Swordsman Called the Countless Swords Sorcerer Vol. 4 Chapter', 'Chapter': 20, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/0c59ccb7-f42d-4cca-a581-b2b80076c5f0/'}
+   , {'Title': 'Shinka no Mi Chapter', 'Chapter': 19, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/8f5ab549-f4be-4d28-870d-6b02a2ca2131/'}
+   , {'Title': "The Wolf Lord's Lady Vol. 2 Chapter", 'Chapter': 10, 'Date': '2021-08-02', 'Author': 'WhimSubs', 'Link': 'https://whimsubs.xyz/r/read/f337c1ca-6e04-466d-a9e7-1670b3eed5f3/'}
+   , {'Title': 'Star Martial God Technique', 'Chapter': 466, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/119028-star-martial-god-technique/1/466'}, {'Title': 'Bowblade Spirit', 'Chapter': 83, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/325051-bowblade-spirit/1/83'}
+   , {'Title': 'Bowblade Spirit', 'Chapter': 82, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/325051-bowblade-spirit/1/82'}
+   , {'Title': 'Bowblade Spirit', 'Chapter': 81, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/325051-bowblade-spirit/1/81'}
+   , {'Title': 'Bowblade Spirit', 'Chapter': 80, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/325051-bowblade-spirit/1/80'}
+   , {'Title': 'Fist demon of Mount Hua', 'Chapter': 40, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/135978-fist-demon-of-mount-hua/1/40'}, {'Title': 'Fist demon of Mount Hua', 'Chapter': 39, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/135978-fist-demon-of-mount-hua/1/39'}, {'Title': 'Star Martial God Technique', 'Chapter': 465, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/119028-star-martial-god-technique/1/465'}
+   , {'Title': 'A Capable Maid', 'Chapter': 56, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/338751-a-capable-maid/1/56'}
+   , {'Title': 'A Capable Maid', 'Chapter': 55, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/338751-a-capable-maid/1/55'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 289, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/289'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 288, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/288'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 287, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/287'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 286, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/286'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 285, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/285'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 284, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/284'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 283, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/283'}
+   , {'Title': 'Yong Heng Zhi Zun', 'Chapter': 282, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/133460-yong-heng-zhi-zun/1/282'}
+   , {'Title': 'Second Life Ranker', 'Chapter': 92, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/188504-second-life-ranker/1/92'}
+   , {'Title': 'Star Martial God Technique', 'Chapter': 464, 'Date': '2021-08-02', 'Author': 'Zero Scans (Discord)', 'Link': 'https://zeroscans.com/comics/119028-star-martial-god-technique/1/464'}]
