@@ -1,11 +1,13 @@
 import sqlite3
 from datetime import datetime
+import logging
 
+
+logger = logging.getLogger('__name__')
 
 try:
     connection = sqlite3.connect('botuser.db')
     cursor = connection.cursor()
-    print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), 'Database created and Connected to sqlite')
 
     sqlite_guild_table='''CREATE TABLE guildinfo(
         guildname TEXT NOT NULL,
@@ -51,13 +53,12 @@ try:
     cursor.execute(sqlite_fanfox_table)
 
     connection.commit()
-    print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), 'Tables created')
+    logger.info('Tables created')
 
     cursor.close()
 
 except sqlite3.Error as error:
-    print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), 'Error while executing', error)
+    logger.error(f'Error while executing {error}')
 finally:
     if connection:
         connection.close()
-        print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S')), 'Sqlite connection closed')

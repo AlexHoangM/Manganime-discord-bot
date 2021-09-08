@@ -16,22 +16,24 @@ logger = logging.getLogger('__name__')
 #Check if the guild is in guildinfo table
 def select_guild(guildid) -> bool:
     try:
-        connection = sqlite3.connect('botuser.db')
-        cursor = connection.cursor()
-        logger.info('Connected to sqlite')
+        try:
+            connection = sqlite3.connect('botuser.db')
+            cursor = connection.cursor()
 
-        select_guild_query='''SELECT guildid FROM guildinfo WHERE guildid = ?'''
-        cursor.execute(select_guild_query, (guildid,))
-        record = cursor.fetchone()
+            select_guild_query='''SELECT guildid FROM guildinfo WHERE guildid = ?'''
+            cursor.execute(select_guild_query, (guildid,))
+            record = cursor.fetchone()
 
-        cursor.close()
-        
+            cursor.close()
+            record[0] = True
+        except TypeError:
+            record[0] = False
+
     except sqlite3.Error as error:
         logger.error(f'Failed to get guildid {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return record[0]
 
 
@@ -40,7 +42,6 @@ def select_userguild(userid) -> bool:
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT userid FROM mangauser WHERE userid = ?'''
         cursor.execute(select_user_query, (userid,))
@@ -53,8 +54,7 @@ def select_userguild(userid) -> bool:
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
-    return record[0]
+    return record
 
 
 #Get all userids from the title
@@ -63,7 +63,6 @@ def select_follow(title):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT userid 
                             FROM mangauser 
@@ -80,7 +79,6 @@ def select_follow(title):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return userids
 
 
@@ -90,7 +88,6 @@ def select_specfollow(userid):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT title 
                             FROM mangauser 
@@ -107,7 +104,6 @@ def select_specfollow(userid):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return titles
 
 
@@ -117,7 +113,6 @@ def select_viewall(userid):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT title 
                             FROM mangauser WHERE userid = ?'''
@@ -133,7 +128,6 @@ def select_viewall(userid):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return allmanga
 
 
@@ -142,7 +136,6 @@ def select_altlinkscan(title):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT link 
                             FROM scanlator 
@@ -157,7 +150,6 @@ def select_altlinkscan(title):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return record
 
 
@@ -166,7 +158,6 @@ def select_altlinkfox(title):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         select_user_query='''SELECT link 
                             FROM fanfox 
@@ -181,7 +172,6 @@ def select_altlinkfox(title):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
     return record
 
 
@@ -198,7 +188,6 @@ def populate_guild_table(recordlist):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         populate_guild_query='''INSERT INTO guildinfo(guildname, guildid)
                                 VALUES(?, ?);'''
@@ -206,7 +195,7 @@ def populate_guild_table(recordlist):
         cursor.executemany(populate_guild_query, recordlist)
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} added to guildinfo table')
+        logger.info(f'Total {number} added to guildinfo table')
         connection.commit()
         cursor.close()
     except sqlite3.Error as error:
@@ -214,7 +203,6 @@ def populate_guild_table(recordlist):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 #Add new entries to mangauser table
@@ -222,7 +210,6 @@ def populate_mangauser_table(recordlist):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         populate_mangauser_query='''INSERT INTO mangauser(guildid, username, userid, title)
                                     VALUES(?, ?, ?, ?);'''
@@ -230,14 +217,13 @@ def populate_mangauser_table(recordlist):
         cursor.executemany(populate_mangauser_query, recordlist)
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} added to mangauser table')
+        logger.info(f'Total {number} added to mangauser table')
         cursor.close()
     except sqlite3.Error as error:
         logger.error(f'Failed to add records to mangauser table: {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 #Add new entries to mangaupdate table
@@ -245,7 +231,6 @@ def populate_mangaupdate_table(recordlist):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         populate_mangaupdate_query='''INSERT INTO mangaupdate(title, chapter, author, date)
                                     VALUES(?, ?, ?, ?);'''
@@ -253,14 +238,13 @@ def populate_mangaupdate_table(recordlist):
         cursor.executemany(populate_mangaupdate_query, recordlist)
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} added to mangaupdate table')
+        logger.info(f'Total {number} added to mangaupdate table')
         cursor.close()
     except sqlite3.Error as error:
         logger.error(f'Failed to add records to mangaupdate table: {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 #add new entries to scanlator table
@@ -268,7 +252,6 @@ def populate_scanlator_table(recordlist):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         populate_scanlator_query='''INSERT INTO scanlator(title, chapter, author, date, link)
                                     VALUES(?, ?, ?, ?, ?);'''
@@ -276,21 +259,19 @@ def populate_scanlator_table(recordlist):
         cursor.executemany(populate_scanlator_query, recordlist)
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} added to scanlator table')
+        logger.info(f'Total {number} added to scanlator table')
         cursor.close()
     except sqlite3.Error as error:
         logger.error(f'Failed to add records to scanlator table: {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 #Add new entries to fanfox table
 def populate_fanfox_table(recordlist):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         populate_fanfox_query='''INSERT INTO fanfox(title, chapter, author, date, link)
                                     VALUES(?, ?, ?, ?, ?);'''
@@ -298,14 +279,13 @@ def populate_fanfox_table(recordlist):
         cursor.executemany(populate_fanfox_query, recordlist)
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} added to fanfox table')
+        logger.info(f'Total {number} added to fanfox table')
         cursor.close()
     except sqlite3.Error as error:
         logger.error(f'Failed to add records to fanfox table: {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 
@@ -316,21 +296,20 @@ def populate_fanfox_table(recordlist):
 
 
 #In case the guild remove the bot -> delete guild and all user and user's related info from db
-def delete_guild(guildidlist):
+def delete_guild(guildid):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         delete_guild_query='''DELETE FROM guildinfo WHERE guildid = ?'''
-        cursor.execute(delete_guild_query, (guildidlist, ))
+        cursor.execute(delete_guild_query, (guildid,))
         connection.commit()
         number1 = cursor.rowcount
-        logger.info(f'total {number1} deleted from guildinfo table')
+        logger.info(f'Total {number1} deleted from guildinfo table')
 
 
         delete_user_query ='''DELETE FROM mangauser WHERE guildid = ?'''
-        cursor.executemany(delete_user_query, guildidlist)     
+        cursor.execute(delete_user_query, (guildid,))     
         connection.commit()
         number2 = cursor.rowcount
         logger.info(f'total {number2} deleted from mangauser table')
@@ -342,21 +321,19 @@ def delete_guild(guildidlist):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 #In case user left the guild / unfollow all -> remove all user's related info
-def delete_user(useridlist):
+def delete_user(userid):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         delete_user_query='''DELETE FROM mangauser WHERE userid = ?'''
-        cursor.executemany(delete_user_query, (useridlist,))
+        cursor.execute(delete_user_query, (userid,))
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} deleted from mangauser table')
+        logger.info(f'Total {number} deleted from mangauser table')
 
         cursor.close()
     except sqlite3.Error as error:
@@ -364,7 +341,6 @@ def delete_user(useridlist):
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')
 
 
 #In case user unfollow -> remove
@@ -372,16 +348,14 @@ def delete_user_unfollow(manganame):
     try:
         connection = sqlite3.connect('botuser.db')
         cursor = connection.cursor()
-        logger.info('Connected to sqlite')
 
         delete_userunfollow_query='''DELETE FROM mangauser WHERE title = ?'''
         cursor.execute(delete_userunfollow_query, (manganame,))
         connection.commit()
         number = cursor.rowcount
-        logger.info(f'total {number} unfollowed from mangauser table')
+        logger.info(f'Total {number} unfollowed from mangauser table')
     except sqlite3.Error as error:
         logger.error(f'Failed to unfollow requested title from mangauser table: {error}')
     finally:
         if connection:
             connection.close()
-            logger.info('Sqlite connection closed')

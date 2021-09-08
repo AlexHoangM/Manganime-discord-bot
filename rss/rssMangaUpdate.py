@@ -43,16 +43,17 @@ def rssParser():
             unclTitle = uncleanTitle.rsplit('c.')
             try:
                 chapter = unclTitle[1].strip()
+                if '-' in chapter:
+                    chapter = chapter.split('-', 1)
+                    chapter = chapter[1]
+                else:
+                    pass
             except IndexError:
                 pass
         else:
             pass
 
-        if '-' in chapter:
-            chapter = chapter.split('-', 1)
-            chapter = chapter[1]
-        else:
-            pass
+        
 
         cleanTitle = unclTitle[0].strip()
     

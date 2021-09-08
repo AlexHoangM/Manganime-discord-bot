@@ -1,4 +1,5 @@
 import os
+from typing import Type
 import discord
 import asyncio
 import threading
@@ -63,7 +64,6 @@ def checkUpdate_rssMU():
             dbsqlite.populate_mangaupdate_table(newdata_tuplelist)
         time.sleep(30)
         rssMU_olddata = rssMU_newdata
-        logger.info('Checked RSS MangaUpdate')
 
 
 def checkUpdate_rssFF():
@@ -86,7 +86,7 @@ def checkUpdate_rssFF():
             dbsqlite.populate_fanfox_table(newdata_tuplelist)  
         time.sleep(30)
         rssFF_olddata = rssFF_newdata
-        logger.info('Checked RSS Fanfox')
+
 
 def checkUpdate_rssScanlators():
     olddata_tuplelist = []
@@ -108,7 +108,7 @@ def checkUpdate_rssScanlators():
             dbsqlite.populate_scanlator_table(newdata_tuplelist)
         time.sleep(30)
         rssS_olddata = rssS_newdata
-        logger.info('Checked RSS Scanlators')
+
 
 def getdata(manganame):
     datalist = []
@@ -132,7 +132,6 @@ async def sendNotification(title: str, chapter: str, author: str, url: str, id: 
     if title != None:
         altlink1 = dbsqlite.select_altlinkscan(title)
         altlink2 = dbsqlite.select_altlinkfox(title)
-        logger.info('Sending notification...')
         alluserids = dbsqlite.select_follow(title)
         for userid in alluserids:
             userstitle = dbsqlite.select_specfollow(userid)
@@ -141,10 +140,20 @@ async def sendNotification(title: str, chapter: str, author: str, url: str, id: 
                     embednoti = discord.Embed(title = f'**{title}**', url = url, description = 'A new Chapter is out!')
                     embednoti.add_field(name = 'Chapter:', value = chapter, inline = True)                
                     embednoti.add_field(name = 'Scanlator:', value = author, inline = True)
-                    embednoti.add_field(name = 'Alternate Link:', value = altlink1)
-                    embednoti.add_field(name = 'Alternate Link:', value = altlink2)                
+                    if altlink1:
+                        embednoti.add_field(name = 'Alternate Link:', value = altlink1)
+                    else:
+                        altlink1 = ''
+                    if altlink2:
+                        embednoti.add_field(name = 'Alternate Link:', value = altlink2)                
+                    else: 
+                        altlink2 = ''
                     embednoti.set_image(url = f'https://uploads.mangadex.org/covers/{id}/{imgid}')
-                    await bot.send_message(userid, embed=embednoti)
+                    
+                    dm = bot.get_user(userid)
+                    await dm.send(embednoti)
+                    #await bot.send(embed=embednoti)
+                    #await bot.send_message(userid, embed=embednoti)
                     logger.info('Notification sent')
                     break
 
@@ -223,21 +232,22 @@ async def find(ctx:SlashContext, title:str):
                 await confirm0mess.edit(embed = embed0_edit, components=[])
                 
                 #Add the message's author to the database
-                if dbsqlite.select_userguild(str(ctx.message.author.id)) == ctx.message.author.id:
+                if dbsqlite.select_userguild(int(ctx.author.id)) == ctx.author.id:
                     response0 = ''
+                    
                 else:
                     try:
                         recordlist = []
-                        recordlist.append((int(ctx.guild.id), str(ctx.message.author), int(ctx.message.author.id), listdata[0]))
+                        recordlist.append((int(ctx.guild.id), str(ctx.author), int(ctx.author.id), listdata[0]))
                         dbsqlite.populate_mangauser_table(recordlist)
-                        logger.info(f'{ctx.message.author} - {ctx.message.author.id} is added to database.')
+                        logger.info(f'{ctx.author} - {ctx.author.id} is added to database.')
 
-                        response0 = f'{ctx.message.author} - {ctx.message.author.id} is now be able to follow manga.'
+                        response0 = f'{ctx.author} - {ctx.author.id} is now be able to follow manga.'
                     except:
-                        response0 = f'{ctx.message.author} - {ctx.message.author.id} is still not be able to follow manga.'
+                        response0 = f'{ctx.author} - {ctx.author.id} is still not be able to follow manga.'
 
                 #Follow the requested manga
-                userstitle = dbsqlite.select_specfollow(ctx.message.author.id)
+                userstitle = dbsqlite.select_specfollow(ctx.author.id)
                 for reqtitle in userstitle:
                     if reqtitle == listdata[0]:
                         response1 = f'{listdata[0]} is already being followed'
@@ -248,10 +258,9 @@ async def find(ctx:SlashContext, title:str):
                         except:
                             response1 = f'{listdata[0]} **could not** be followed'
 
-                await ctx.send(response0 + '\n' + response1)
+                await ctx.send(response0 + '\n' + response1, delete_after=5)
                 logger.info(response0) 
                 logger.info(response1)
-                #print(str(datetime.now().strftime('%Y-%m-%d at %H:%M:%S'), response0, response1))
                 
             #If no: return the link to the manga                
             elif answer == 'No':
@@ -327,7 +336,7 @@ async def unfollow_single(ctx:SlashContext, title:str):
     listdata = getdata(title)
     cleanTitle = listdata[0]
     if cleanTitle != None:
-        if dbsqlite.select_userguild(str(ctx.message.author)) == ctx.message.author:
+        if dbsqlite.select_userguild(str(ctx.author)) == ctx.author:
             try:
                 dbsqlite.delete_user_unfollow(cleanTitle)
                 response = f'{cleanTitle} is no longer being followed!'
@@ -341,37 +350,35 @@ async def unfollow_single(ctx:SlashContext, title:str):
     logger.info(response)
 
 
-
 @slash.slash(name = 'unflallmanga', description='Unfollow all mangas from your list', guild_ids = [741769720830885970])
 async def unfollow_all(ctx:SlashContext):
     try:
-        dbsqlite.delete_user(int(ctx.message.author.id))
-        response = f'{ctx.message.author} is NOT following any manga!'
+        dbsqlite.delete_user(ctx.author.id)
+        response = f'{ctx.author} is NOT following any manga!'
     except:
-        response = f'Failed. {ctx.message.author} is still following some mangas.'
+        response = f'Failed. {ctx.author} is still following some mangas.'
     await ctx.send(response, delete_after=5)
     logger.info(response)
 
 
-
-@bot.command(name = 'mymangalist', description='View your entire manga list', guild_ids = [741769720830885970])
+@slash.slash(name = 'mymangalist', description='View your entire manga list', guild_ids = [741769720830885970])
 async def view_all(ctx):
     outmessage = ''
     try:
-        mlist = dbsqlite.select_viewall(int(ctx.message.author.id))
+        mlist = dbsqlite.select_viewall(ctx.author.id)
         if len(mlist) == 0:
-            response = f'{ctx.message.author} is NOT following any manga!'
-            await ctx.send(response)
+            response = f'{ctx.author} is NOT following any manga!'
+            await ctx.send(response, delete_after=5)
+            logger.info(response)
         else:
             for m in mlist:
                 outmessage += ' - ' + m + '\n'
-            embed = discord.Embed(title = f'{ctx.message.author}\'s manga', description = outmessage)
-            embed.set_thumbnail(url = ctx.message.author.avatar.url)
-            await ctx.send(embed = embed)
+            embed = discord.Embed(title = f'{ctx.author}\'s manga', description = outmessage)
+            await ctx.send(embed = embed, delete_after=5)
     except:
-        response = f'Failed. Data of {ctx.message.author} could NOT be retrieved.'
+        response = f'Failed. Data of {ctx.author} could NOT be retrieved.'
         await ctx.send(response, delete_after=5)
-    logger.info(response)
+        logger.info(response)
 
 checkUpdate1 = threading.Thread(target=checkUpdate_rssMU)
 checkUpdate2 = threading.Thread(target=checkUpdate_rssFF)

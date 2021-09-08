@@ -5,7 +5,7 @@ import logging
 
 logger = logging.getLogger('__name__')
 
-
+'''
 rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'Flame Scans'         : 'https://flamescans.org/feed/',
 'Hatigarm Scans'      : 'https://hatigarmscanz.net/feed',
@@ -20,7 +20,8 @@ rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'Tritinia Scans'      : 'https://rss.tritinia.com/all-series.xml',
 'WhimSubs'            : 'https://whimsubs.xyz/r/feeds/rss.xml',
 'Zero Scans (Discord)': 'https://zeroscans.com/feed'}
-
+'''
+rssScanlator = {'Flame Scans'         : 'https://flamescans.org/feed/'}
 
 def chaptoInt(string):
     if not string:
@@ -56,12 +57,11 @@ def rssParser():
         entries = data.entries
         dateFormat = ['%a, %d %b %Y %H:%M:%S %Z', '%a, %d %b %Y %H:%M:%S Z', '%a, %d %b %Y %H:%M:%S +0000', '%a, %d %b %Y %H:%M:%S +0400']
 
-
         for entry in entries:
 
             title = entry['title']
             url = entry['link']                
-            
+
             try:
                 date = entry['published']
             except KeyError:
@@ -77,12 +77,14 @@ def rssParser():
             except KeyError:
                 pubdate = datetime.today().strftime('%Y-%m-%d')
                 
+            #Format:    - Volume ... Chapter ...
             uncleanTitle = title.rsplit('- Volume')
             try:
                 chapter = uncleanTitle[1].rsplit('Chapter')[1].strip()
             except IndexError:
                 pass
-
+            
+            #Format:   - Vol. ... Ch. ...
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit('- Vol.')
                 try:
@@ -91,7 +93,8 @@ def rssParser():
                     pass
             else:
                 pass
-
+            
+            #Format:   - Vol. ... Chapter ...
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit('Vol.')
                 try:
@@ -100,7 +103,8 @@ def rssParser():
                     pass
             else:
                 pass
-
+            
+            #Format:   - Chapter ...
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit('- Chapter')
                 try:
@@ -110,6 +114,7 @@ def rssParser():
             else:
                 pass
 
+            #Format:   - Ch. ...
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit('- Ch.')
                 try:
@@ -118,16 +123,22 @@ def rssParser():
                     pass
             else:
                 pass
-
+            
+            #Format:   Chapter ... or Chapter ...: chaptitle
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit('Chapter')
                 try:
-                    chapter = uncleanTitle[1].strip()
+                    uncleanchapter = uncleanTitle[1].strip()
+                    try:
+                        chapter = uncleanchapter.rsplit(':')[0].strip()
+                    except:
+                        pass
                 except IndexError:
                     pass
             else:
                 pass
 
+            #Format:  title ....
             if uncleanTitle[0] is title:
                 uncleanTitle = title.rsplit(' ', 1)
                 try:
@@ -137,8 +148,11 @@ def rssParser():
             else:
                 pass
 
+            #Format:   ...-...
             if '-' in chapter:
-                chapter = chapter.split('-', 1)
+                chapter = chapter.split('-', 1)[1].strip()
+            elif '–' in chapter:
+                chapter = chapter.split('–', 1)[0].strip()
             elif '&amp;' in chapter:
                 chapter = chapter.split('&amp;', 1)
             else:
@@ -155,13 +169,14 @@ def rssParser():
                     chaplist.append(i)
 
             unclchapter = list(filter(None, map(chaptoInt, chaplist)))
+            #Note: ['0'] returns [] for Hatigarm scans and Lynx scans
 
             if len(unclchapter) == 1:
                 cleanChapter = unclchapter[0]
             elif len(unclchapter) > 1:
                 cleanChapter = unclchapter[1]
             else:
-                cleanChapter = ''
+                cleanChapter = 0
 
             mangaInfo.append({'Title': cleanTitle, 'Chapter': cleanChapter, 'Date': pubdate, 'Author': author, 'Link': url})
 
