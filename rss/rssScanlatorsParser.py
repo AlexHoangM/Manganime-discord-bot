@@ -5,7 +5,6 @@ import logging
 
 logger = logging.getLogger('__name__')
 
-'''
 rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'Flame Scans'         : 'https://flamescans.org/feed/',
 'Hatigarm Scans'      : 'https://hatigarmscanz.net/feed',
@@ -20,8 +19,7 @@ rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'Tritinia Scans'      : 'https://rss.tritinia.com/all-series.xml',
 'WhimSubs'            : 'https://whimsubs.xyz/r/feeds/rss.xml',
 'Zero Scans (Discord)': 'https://zeroscans.com/feed'}
-'''
-rssScanlator = {'Flame Scans'         : 'https://flamescans.org/feed/'}
+
 
 def chaptoInt(string):
     if not string:
