@@ -65,7 +65,6 @@ def checkUpdate_rssMU():
         time.sleep(30)
         rssMU_olddata = rssMU_newdata
 
-
 def checkUpdate_rssFF():
     olddata_tuplelist = []
     rssFF_olddata = rssFanFox.rssParser()
@@ -87,7 +86,6 @@ def checkUpdate_rssFF():
         time.sleep(30)
         rssFF_olddata = rssFF_newdata
 
-
 def checkUpdate_rssScanlators():
     olddata_tuplelist = []
     rssS_olddata = rssScanlatorsParser.rssParser()
@@ -108,7 +106,6 @@ def checkUpdate_rssScanlators():
             dbsqlite.populate_scanlator_table(newdata_tuplelist)
         time.sleep(30)
         rssS_olddata = rssS_newdata
-
 
 def getdata(manganame):
     datalist = []
@@ -152,10 +149,9 @@ async def sendNotification(title: str, chapter: str, author: str, url: str, id: 
                     
                     dm = bot.get_user(userid)
                     await dm.send(embednoti)
-                    #await bot.send(embed=embednoti)
-                    #await bot.send_message(userid, embed=embednoti)
-                    logger.info('Notification sent')
+                    logger.info(f'Notification sent to {userid}')
                     break
+
 
 
 @bot.event
@@ -192,12 +188,12 @@ async def on_guild_remove(guild):
 
 
 
-@slash.slash(name = 'ping', description = 'Ping bot\'s latency', guild_ids = [741769720830885970])
+@slash.slash(name = 'ping', description = 'Ping bot\'s latency')
 async def ping(ctx:SlashContext):
     await ctx.send(f'pong! {round(bot.latency * 1000)}ms ', delete_after=5)
 
 
-@slash.slash(name='follow', description='Find and follow a manga', guild_ids = [741769720830885970])
+@slash.slash(name='follow', description='Find and follow a manga')
 async def find(ctx:SlashContext, title:str):
 
     listdata = getdata(title)
@@ -270,7 +266,7 @@ async def find(ctx:SlashContext, title:str):
         await ctx.send(f'{input} is **NOT found**! Please try again', delete_after=5)
 
 
-@slash.slash(name='find', description='Find a manga', guild_ids = [741769720830885970])
+@slash.slash(name='find', description='Find a manga')
 async def find(ctx:SlashContext, title:str):
 
     listdata = getdata(title)
@@ -311,7 +307,7 @@ async def find(ctx:SlashContext, title:str):
                 await ctx.send(f'>>> **Alternate possible mangas:** \n\n {altmess} \n\n *Please find other title in the list and search again*', delete_after=10)
 
 
-@slash.slash(name = 'link', description='Get link of a manga\'s chapter', guild_ids = [741769720830885970])
+@slash.slash(name = 'link', description='Get link of a manga\'s chapter')
 async def chapter_link(ctx:SlashContext, title:str, chapter:str):
 
     listdata = getdata(title)
@@ -330,7 +326,7 @@ async def chapter_link(ctx:SlashContext, title:str, chapter:str):
         await ctx.send('Manga **not found**', delete_after=5)
 
 
-@slash.slash(name = 'unflmanga', description='Unfollow a manga from your list', guild_ids = [741769720830885970])
+@slash.slash(name = 'unflmanga', description='Unfollow a manga from your list')
 async def unfollow_single(ctx:SlashContext, title:str):
 
     listdata = getdata(title)
@@ -350,7 +346,7 @@ async def unfollow_single(ctx:SlashContext, title:str):
     logger.info(response)
 
 
-@slash.slash(name = 'unflallmanga', description='Unfollow all mangas from your list', guild_ids = [741769720830885970])
+@slash.slash(name = 'unflallmanga', description='Unfollow all mangas from your list')
 async def unfollow_all(ctx:SlashContext):
     try:
         dbsqlite.delete_user(ctx.author.id)
@@ -361,7 +357,7 @@ async def unfollow_all(ctx:SlashContext):
     logger.info(response)
 
 
-@slash.slash(name = 'mymangalist', description='View your entire manga list', guild_ids = [741769720830885970])
+@slash.slash(name = 'mymangalist', description='View your entire manga list')
 async def view_all(ctx):
     outmessage = ''
     try:
