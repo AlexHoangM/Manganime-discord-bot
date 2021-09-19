@@ -5,6 +5,7 @@ import logging
 
 logger = logging.getLogger('__name__')
 
+#Remove Tritinia Scans rss due to rss feed not updated
 rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'Flame Scans'         : 'https://flamescans.org/feed/',
 'Hatigarm Scans'      : 'https://hatigarmscanz.net/feed',
@@ -16,7 +17,7 @@ rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'MethodScan'          : 'https://methodscans.com/feed',
 'NANI? Scans'         : 'https://naniscans.com/rss',
 'SensesScans'         : 'https://sensescans.com/index.php?action=.xml;type=rss;board=45.0;sa=news',
-'Tritinia Scans'      : 'https://rss.tritinia.com/all-series.xml',
+
 'WhimSubs'            : 'https://whimsubs.xyz/r/feeds/rss.xml',
 'Zero Scans (Discord)': 'https://zeroscans.com/feed'}
 
@@ -146,8 +147,11 @@ def rssParser():
             else:
                 pass
 
+            #Format:    ... -  - Fabrication ...
+            if 'Fabrication' in chapter:
+                chapter = chapter.rsplit(' -  - Fabrication')[0].strip()
             #Format:   ...-...
-            if '-' in chapter:
+            elif '-' in chapter:
                 chapter = chapter.split('-', 1)[1].strip()
             elif '–' in chapter:
                 chapter = chapter.split('–', 1)[0].strip()
