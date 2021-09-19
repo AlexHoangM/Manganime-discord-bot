@@ -5,7 +5,7 @@ def titleResult(title):
     title = title.replace(' ', '+')
     titleResponse = requests.get(f'https://api.mangadex.org/manga?title={title}')
     titleData = titleResponse.json()
-    if titleData['results'] == []:
+    if titleData['data'] == []:
         titleData = None
     else:
         pass
