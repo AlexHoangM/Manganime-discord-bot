@@ -14,7 +14,7 @@ def titleResult(title):
 
 def mangaID(titleData):
     try:
-        mangaID = titleData['results'][0]['data']['id']
+        mangaID = titleData['data'][0]['id']
     except:
         mangaID = None
 
@@ -23,9 +23,9 @@ def mangaID(titleData):
 
 def mangaTitle(titleData):
     try:
-        mangaTitle = titleData['results'][0]['data']['attributes']['title']['en']
-    except KeyError:
-        mangaTitle = titleData['results'][0]['data']['attributes']['title']['jp']
+        mangaTitle = titleData['data'][0]['attributes']['title']['en']
+    #except KeyError:
+    #    mangaTitle = titleData['results'][0]['attributes']['title']['jp']
     except:
         mangaTitle = None
 
@@ -34,7 +34,7 @@ def mangaTitle(titleData):
 
 def mangaDescription(titleData):
     try:
-        mangaDescription = titleData['results'][0]['data']['attributes']['description']['en']
+        mangaDescription = titleData['data'][0]['attributes']['description']['en']
     except:
         mangaDescription = 'Not found'
     if '\r\n' in mangaDescription:
@@ -46,8 +46,9 @@ def mangaDescription(titleData):
 
 def mangaLink(titleData):
     try:
-        ID = titleData['results'][0]['data']['id']
-        mangaLink = f'https://mangadex.org/title/{ID}'
+        ID = titleData['data'][0]['id']
+        titleLink = mangaTitle(titleData).lower().replace(',','').replace(' ','-')
+        mangaLink = f'https://mangadex.org/title/{ID}/{titleLink}'
     except:
         mangaLink = 'Not found'
 
@@ -57,9 +58,9 @@ def mangaList(titleData):
     mangaList = []
     for i in range(10):
         try:
-            mangaTitle = titleData['results'][i]['data']['attributes']['title']['en']
-        except KeyError:
-            mangaTitle = titleData['results'][i]['data']['attributes']['title']['jp']
+            mangaTitle = titleData['data'][i]['attributes']['title']['en']
+        #except KeyError:
+        #    mangaTitle = titleData['results'][i]['data']['attributes']['title']['jp']
         except IndexError:
             pass
 
@@ -79,7 +80,7 @@ def coverResult(mangaID):
 
 def coverID(coverData):
     try:
-        coverID = coverData['results'][0]['data']['attributes']['fileName']
+        coverID = coverData['data'][0]['attributes']['fileName']
     except:
         coverID = None
 
@@ -90,8 +91,8 @@ def chapterLink(mangaID, chapter):
     chapterData = chapterLink.json()
     try:
         for i in range(len(chapterData)):
-            if chapterData['results'][i]['data']['attributes']['translatedLanguage'] == 'en':
-                chapID = chapterData['results'][i]['data']['id']
+            if chapterData['data'][i]['attributes']['translatedLanguage'] == 'en':
+                chapID = chapterData['data'][i]['id']
                 chapLink = f'https://mangadex.org/chapter/{chapID}/1'
                 break
             else:
