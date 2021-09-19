@@ -125,7 +125,7 @@ def getdata(manganame):
         datalist = None
         return datalist
 
-async def sendNotification(title: str, chapter: str, author: str, url: str, id: int, imgid: int):
+async def sendNotification(title: str, chapter, author: str, url: str, id: int, imgid: int):
     if title != None:
         altlink1 = dbsqlite.select_altlinkscan(title)
         altlink2 = dbsqlite.select_altlinkfox(title)
