@@ -21,7 +21,6 @@ rssScanlator = {'Arang Scans': 'https://arangscans.com/rss',
 'WhimSubs'            : 'https://whimsubs.xyz/r/feeds/rss.xml',
 'Zero Scans (Discord)': 'https://zeroscans.com/feed'}
 
-
 def chaptoInt(string):
     if not string:
         return string
@@ -150,6 +149,9 @@ def rssParser():
             #Format:    ... -  - Fabrication ...
             if 'Fabrication' in chapter:
                 chapter = chapter.rsplit(' -  - Fabrication')[0].strip()
+            #Format:    ... -  - Last Chapter - END
+            elif 'Last Chapter' in chapter:
+                chapter = chapter.rsplit(' -  - Last Chapter')[0].strip()
             #Format:   ...-...
             elif '-' in chapter:
                 chapter = chapter.split('-', 1)[1].strip()
